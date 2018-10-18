@@ -1,0 +1,2 @@
+# PalanJS
+Javascript based SCADA
